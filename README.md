@@ -23,6 +23,11 @@ This is the **React frontend** for the Text Summarizer application. It allows us
 - **Fetch API** for calling backend
 - **Web Speech API** for TTS (Text-to-Speech)
 
+## 📸 Screenshots
+
+### 📥 Text Input Interface
+![Input Example](assets/demo.png)
+
 ---
 
 ## 📦 Installation
