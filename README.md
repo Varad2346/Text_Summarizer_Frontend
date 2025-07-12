@@ -26,7 +26,7 @@ This is the **React frontend** for the Text Summarizer application. It allows us
 ## 📸 Screenshots
 
 ### 📥 Text Input Interface
-![Input Example](assets/demo.png)
+![Input Example](/src/assets/demo.png)
 
 ---
 
